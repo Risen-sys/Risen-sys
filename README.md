@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew Silbernagel</h1>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/118539484/219250098-0de4dbc8-8ec5-4d49-a4e0-cb8ea9b02a34.gif" width="120" height="120">
+</p>
+
 <h3 align="center">A passionate young developer from Louisiana eager to learn and produce an amazing product</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risen-sys&label=Profile%20views&color=0e75b6&style=flat" alt="risen-sys" /> </p>
