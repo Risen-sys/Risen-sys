@@ -10,6 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risen-sys" alt="risen-sys" /></a> </p>
 
+<p align="right>
+<a href="https://app.daily.dev/RisenSan"><img src="https://api.daily.dev/devcards/93ebe8432cdc498f9476369d4adcff2f.png?r=v71" align="right" width="400" alt="Matthew Silbernagel's Dev Card"/></a>
+</p>
+
 - 🌱 I’m currently learning **JavaScript, React, TypeScript**
 
 - 📫 How to reach me **mnolansilbernagel@gmail.com**
@@ -31,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risen-sys&" alt="risen-sys" /></p>
 
-<a href="https://app.daily.dev/RisenSan"><img src="https://api.daily.dev/devcards/93ebe8432cdc498f9476369d4adcff2f.png?r=v71" align="right" width="300" height="300" alt="Matthew Silbernagel's Dev Card"/></a>
+
 
