@@ -1,5 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45">, I'm Matthew Silbernagel</h1>
 
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/q1JX2XL/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/q1JX2XL/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/q1JX2XL/output-gif.gif">
+</picture>
+
+<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Tue Mar 05 06:41:00 AM IST 2024</i></sub>
+
+<details>
+<summary>More details</summary>
+
+</details>
+</div>
+
+<!-- Image deletion URL: https://ibb.co/0Js8z8p/a024dc2781855d34dde5ae69c84cb7e3 -->
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118539484/219250098-0de4dbc8-8ec5-4d49-a4e0-cb8ea9b02a34.gif" width="120" height="120">
 </p>
