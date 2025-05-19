@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risen-sys&label=Profile%20views&color=0e75b6&style=flat" alt="risen-sys" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risen-sys" alt="risen-sys" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=risen-sys" alt="risen-sys" /></a> </p>
 
 <p align="right>
 <a href="https://app.daily.dev/RisenSan"><img src="https://api.daily.dev/devcards/93ebe8432cdc498f9476369d4adcff2f.png?r=v71" align="right" width="400" alt="Matthew Silbernagel's Dev Card"/></a>
