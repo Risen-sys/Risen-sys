@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45">, I'm Matthew Silbernagel</h1>
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/118539484/219250098-0de4dbc8-8ec5-4d49-a4e0-cb8ea9b02a34.gif" width="120" height="120">
-</p>
+
 
 <h3 align="center">A passionate young developer from Louisiana eager to learn and produce an amazing product</h3>
 
